@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 25 sept. 2017, 14:53:52
+    Author     : cpont
+*/
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+.espace{
+background-color:transparent;
+height:50px
+}
+
+/* ../public/assets//css/monStyle.css */
+#homepage {
+    margin-top: 100px;
+}
+
+
+.stylish-title {
+  font-size: 50px;
+  color: rgb(220, 146, 237);
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 2px 2px #ccc;
+  font-weight: bold;
+}
+
+.img-menu{
+  border-radius: 20px; 
+  margin-top: 30px; 
+  margin-bottom: 20px; 
+  width: 97%; 
+  height: auto; 
+  object-fit: cover; 
+  object-position: center;
+}
+
+.img-liste{
+  border-radius: 20px; 
+  margin-top: 30px; 
+  margin-bottom: 20px; 
+  width: 30%; 
+  height: auto; 
+  object-fit: cover; 
+  object-position: center;
+}
+
+.navbar-brand, .nav-link {
+  color: #5a6268;
+}
+
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-brand 
+ {
+  color: white;
+} 
+
+.nav-link {
+  margin-right: 1rem;
+}
+.nav-link:hover {
+  color: #343a40;
+}
+
+.navbar-brand {
+  border-right: 1px solid #ddd;
+  padding-right: 1.75rem;
+}
+
+.navbar {
+  border-bottom: 1px solid #ddd;
+  background-color: rgb(220, 146, 237);
+}
+
+.banner {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  height: 200px;
+}
+
+.general {
+  margin-top: 200px;
+  margin-bottom: 20px;
+}
